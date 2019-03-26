@@ -1,0 +1,1 @@
+/home/ys/project/TeamTalk-master/server/src/slog/CMakeFiles/slog.dir

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ys/project/src9-9/muduo-2.0.0-beta/muduo/base/FileUtil.h
+muduo/base/StringPiece.h
+-
+
+/home/ys/project/src9-9/muduo-2.0.0-beta/muduo/base/StringPiece.h
+string.h
+-
+iosfwd
+-
+muduo/base/Types.h
+-
+string
+-
+
+/home/ys/project/src9-9/muduo-2.0.0-beta/muduo/base/Types.h
+stdint.h
+-
+string
+-
+ext/vstring.h
+-
+ext/vstring_fwd.h
+-
+assert.h
+-
+muduo/base/noncopyable.h
+-
+
+/home/ys/project/src9-9/muduo-2.0.0-beta/muduo/base/noncopyable.h
+
+/home/ys/project/src9-9/muduo-2.0.0-beta/muduo/base/tests/FileUtil_test.cc
+muduo/base/FileUtil.h
+-
+stdio.h
+-
+inttypes.h
+-
+

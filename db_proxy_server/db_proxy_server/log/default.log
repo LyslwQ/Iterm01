@@ -1,0 +1,265 @@
+2018-09-10 13:49:21,655 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2018-09-10 13:49:21,655 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2018-09-10 13:49:21,655 [INFO  IM] - <main.cpp>|<56>|<db_init>,CacheManager init failed
+2018-09-10 13:52:32,642 [INFO  IM] - <CachePool.cpp>|<59>|<Init>,redisConnect failed: Connection refused
+2018-09-10 13:52:32,642 [INFO  IM] - <CachePool.cpp>|<710>|<Init>,Init cache pool failed
+2018-09-10 13:52:32,642 [INFO  IM] - <main.cpp>|<56>|<db_init>,CacheManager init failed
+2018-09-10 13:53:36,765 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2018-09-10 13:53:36,766 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2018-09-10 13:53:36,767 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2018-09-10 13:53:36,768 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2018-09-10 13:53:36,769 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2018-09-10 13:53:36,799 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2018-09-10 13:53:36,801 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2018-09-10 13:54:29,979 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2018-09-10 13:54:29,980 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2018-09-10 13:54:29,981 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2018-09-10 13:54:29,982 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2018-09-10 13:54:29,982 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2018-09-10 13:54:29,999 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2018-09-10 13:54:30,000 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2018-09-10 13:58:00,813 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2018-09-10 13:58:00,825 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2018-09-10 13:58:00,827 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2018-09-10 13:58:00,827 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2018-09-10 13:58:00,828 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2018-09-10 13:58:00,961 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2018-09-10 13:58:00,962 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2018-09-10 14:09:19,724 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2018-09-10 14:09:19,738 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2018-09-10 14:09:19,739 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2018-09-10 14:09:19,740 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2018-09-10 14:09:19,740 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2018-09-10 14:09:19,929 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2018-09-10 14:09:19,931 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2018-09-10 14:16:01,702 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2018-09-10 14:16:01,703 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2018-09-10 14:16:01,704 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2018-09-10 14:16:01,705 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2018-09-10 14:16:01,705 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2018-09-10 14:16:01,730 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2018-09-10 14:16:01,731 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2018-09-10 14:18:27,542 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2018-09-10 14:18:27,543 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2018-09-10 14:18:27,544 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2018-09-10 14:18:27,544 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2018-09-10 14:18:27,545 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2018-09-10 14:18:27,551 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2018-09-10 14:18:27,553 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2018-09-10 14:25:50,803 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2018-09-10 14:25:50,844 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2018-09-10 14:25:50,844 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2018-09-10 14:25:50,845 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2018-09-10 14:25:50,846 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2018-09-10 14:25:51,088 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2018-09-10 14:25:51,089 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2018-09-10 16:26:17,563 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2018-09-10 16:26:17,577 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2018-09-10 16:26:17,578 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2018-09-10 16:26:17,579 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2018-09-10 16:26:17,580 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2018-09-10 16:26:17,867 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_master, size: 2
+2018-09-10 16:26:17,870 [INFO  IM] - <DBPool.cpp>|<334>|<Init>,db pool: teamtalk_slave, size: 2
+2018-09-12 14:46:11,829 [INFO  IM] - <CachePool.cpp>|<46>|<Init>,redisConnect failed: Connection refused
+2018-09-12 14:46:11,843 [INFO  IM] - <CachePool.cpp>|<697>|<Init>,Init cache pool failed
+2018-09-12 14:46:11,843 [INFO  IM] - <main.cpp>|<56>|<db_init>,CacheManager init failed
+2018-09-12 14:47:44,968 [INFO  IM] - <CachePool.cpp>|<584>|<Init>,cache pool: unread, list size: 2
+2018-09-12 14:47:44,968 [INFO  IM] - <CachePool.cpp>|<584>|<Init>,cache pool: group_set, list size: 2
+2018-09-12 14:47:44,969 [INFO  IM] - <CachePool.cpp>|<584>|<Init>,cache pool: token, list size: 2
+2018-09-12 14:47:44,969 [INFO  IM] - <CachePool.cpp>|<584>|<Init>,cache pool: sync, list size: 2
+2018-09-12 14:47:44,970 [INFO  IM] - <CachePool.cpp>|<584>|<Init>,cache pool: group_member, list size: 2
+2018-09-12 14:47:44,997 [INFO  IM] - <DBPool.cpp>|<322>|<Init>,db pool: teamtalk_master, size: 2
+2018-09-12 14:47:44,998 [INFO  IM] - <DBPool.cpp>|<322>|<Init>,db pool: teamtalk_slave, size: 2
+2018-09-12 14:49:55,665 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=22
+
+2018-09-12 14:49:55,952 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=27
+
+2018-09-12 14:49:57,585 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=28
+
+2018-09-12 14:49:58,114 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=29
+
+2018-09-12 14:49:58,437 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=37
+
+2018-09-12 14:49:58,768 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=46
+
+2018-09-12 14:49:59,049 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=54
+
+2018-09-12 14:49:59,345 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=61
+
+2018-09-12 14:49:59,634 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=68
+
+2018-09-12 14:49:59,846 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=74
+
+2018-09-12 14:50:00,168 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=83
+
+2018-09-12 14:50:00,508 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=92
+
+2018-09-12 14:50:00,820 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=100
+
+2018-09-12 14:50:01,128 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=109
+
+2018-09-12 14:50:01,430 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=117
+
+2018-09-12 14:50:01,720 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=124
+
+2018-09-12 14:50:01,979 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=131
+
+2018-09-12 14:50:02,261 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=138
+
+2018-09-12 14:50:02,497 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=145
+
+2018-09-12 14:50:02,698 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=150
+
+2018-09-12 14:50:02,927 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=156
+
+2018-09-12 14:50:03,161 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=163
+
+2018-09-12 14:50:03,401 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=169
+
+2018-09-12 14:50:03,637 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=175
+
+2018-09-12 14:50:03,869 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=181
+
+2018-09-12 14:50:03,870 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=182
+
+2018-09-12 14:50:04,117 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=188
+
+2018-09-12 14:50:04,373 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=195
+
+2018-09-12 14:50:04,626 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=202
+
+2018-09-12 14:50:04,876 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=208
+
+2018-09-12 14:50:05,128 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=215
+
+2018-09-12 14:50:05,385 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=222
+
+2018-09-12 14:50:05,643 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=228
+
+2018-09-12 14:50:05,887 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=235
+
+2018-09-12 14:50:06,119 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=241
+
+2018-09-12 14:50:06,361 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=248
+
+2018-09-12 14:50:06,594 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=254
+
+2018-09-12 14:50:06,829 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=260
+
+2018-09-12 14:50:07,065 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=267
+
+2018-09-12 14:50:07,301 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=273
+
+2018-09-12 14:50:07,535 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=279
+
+2018-09-12 14:50:07,770 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=285
+
+2018-09-12 14:50:08,004 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=292
+
+2018-09-12 14:50:08,238 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=298
+
+2018-09-12 14:50:08,477 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=304
+
+2018-09-12 14:50:08,710 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=307
+
+2018-09-12 14:50:12,452 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=308
+
+2018-09-12 14:50:12,981 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=309
+
+2018-09-12 14:50:13,307 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=317
+
+2018-09-12 14:50:13,624 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=326
+
+2018-09-12 14:50:13,924 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=330
+
+2018-09-12 14:50:14,267 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=331
+
+2018-09-12 14:50:14,814 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=332
+
+2018-09-12 14:50:14,985 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=336
+
+2018-09-12 14:50:15,009 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=337
+
+2018-09-12 14:50:15,222 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=342
+
+2018-09-12 14:50:15,488 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=350
+
+2018-09-12 14:50:23,118 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=351
+
+2018-09-12 14:50:23,737 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=352
+
+2018-09-12 14:50:23,890 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=353
+
+2018-09-12 14:50:24,750 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=355
+
+2018-09-12 14:50:26,989 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=357
+
+2018-09-12 14:50:27,846 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=359
+
+2018-09-12 14:50:28,323 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=360
+
+2018-09-12 14:50:28,851 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=361
+
+2018-09-12 14:50:29,154 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=369
+
+2018-09-12 14:50:29,445 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=376
+
+2018-09-12 14:50:29,707 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=383
+
+2018-09-12 14:50:29,974 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=390
+
+2018-09-12 14:50:30,223 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=397
+
+2018-09-12 14:50:30,424 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=402
+
+2018-09-12 14:50:30,754 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=411
+
+2018-09-12 14:50:31,079 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=420
+
+2018-09-12 14:50:31,401 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=428
+
+2018-09-12 14:50:31,730 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=431
+
+2018-09-12 14:50:32,681 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=433
+
+2018-09-12 14:50:33,209 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=434
+
+2018-09-12 14:50:33,293 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=436
+
+2018-09-12 14:50:33,392 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=438
+
+2018-09-12 14:50:33,455 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=440
+
+2018-09-12 14:50:33,692 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=446
+
+2018-09-12 14:50:33,944 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=453
+
+2018-09-12 14:50:34,207 [INFO  IM] - <ImPduBase.cpp>|<151>|<IsPduAvailable>,pdu_len=822751498, len=459
+
+2018-10-14 18:21:01,764 [INFO  IM] - <CachePool.cpp>|<46>|<Init>,redisConnect failed: Connection refused
+2018-10-14 18:21:01,769 [INFO  IM] - <CachePool.cpp>|<695>|<Init>,Init cache pool failed
+2018-10-14 18:21:01,769 [INFO  IM] - <main.cpp>|<56>|<db_init>,CacheManager init failed
+2018-10-14 18:27:04,482 [INFO  IM] - <CachePool.cpp>|<46>|<Init>,redisConnect failed: Connection refused
+2018-10-14 18:27:04,482 [INFO  IM] - <CachePool.cpp>|<695>|<Init>,Init cache pool failed
+2018-10-14 18:27:04,482 [INFO  IM] - <main.cpp>|<56>|<db_init>,CacheManager init failed
+2018-10-14 18:31:59,319 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: unread, list size: 2
+2018-10-14 18:31:59,320 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: group_set, list size: 2
+2018-10-14 18:31:59,320 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: token, list size: 2
+2018-10-14 18:31:59,321 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: sync, list size: 2
+2018-10-14 18:31:59,321 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: group_member, list size: 2
+2018-10-14 18:31:59,369 [INFO  IM] - <DBPool.cpp>|<325>|<Init>,db pool: teamtalk_master, size: 2
+2018-10-14 18:31:59,369 [INFO  IM] - <DBPool.cpp>|<325>|<Init>,db pool: teamtalk_slave, size: 2
+2018-10-14 18:42:35,551 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: unread, list size: 2
+2018-10-14 18:42:35,552 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: group_set, list size: 2
+2018-10-14 18:42:35,552 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: token, list size: 2
+2018-10-14 18:42:35,552 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: sync, list size: 2
+2018-10-14 18:42:35,552 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: group_member, list size: 2
+2018-10-14 18:42:35,555 [INFO  IM] - <DBPool.cpp>|<325>|<Init>,db pool: teamtalk_master, size: 2
+2018-10-14 18:42:35,555 [INFO  IM] - <DBPool.cpp>|<325>|<Init>,db pool: teamtalk_slave, size: 2
+2018-10-14 18:47:15,732 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: unread, list size: 2
+2018-10-14 18:47:15,733 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: group_set, list size: 2
+2018-10-14 18:47:15,733 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: token, list size: 2
+2018-10-14 18:47:15,734 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: sync, list size: 2
+2018-10-14 18:47:15,735 [INFO  IM] - <CachePool.cpp>|<582>|<Init>,cache pool: group_member, list size: 2
+2018-10-14 18:47:15,802 [INFO  IM] - <DBPool.cpp>|<325>|<Init>,db pool: teamtalk_master, size: 2
+2018-10-14 18:47:15,803 [INFO  IM] - <DBPool.cpp>|<325>|<Init>,db pool: teamtalk_slave, size: 2

@@ -1,0 +1,1 @@
+/home/ys/project/msg_server_src01/CMakeFiles/msg_server.dir

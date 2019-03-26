@@ -1,0 +1,53 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec377609030/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec377609030.dir/build.make CMakeFiles/cmTryCompileExec377609030.dir/build
+gmake[1]: 进入目录“/home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp”
+/usr/bin/cmake -E cmake_progress_report /home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec377609030.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec377609030.dir/CheckSymbolExists.c.o   -c /home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec377609030
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec377609030.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec377609030.dir/CheckSymbolExists.c.o  -o cmTryCompileExec377609030 -rdynamic 
+CMakeFiles/cmTryCompileExec377609030.dir/CheckSymbolExists.c.o：在函数‘main’中：
+CheckSymbolExists.c:(.text+0x16)：对‘pthread_create’未定义的引用
+collect2: 错误：ld 返回 1
+gmake[1]: 离开目录“/home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp”
+gmake[1]: *** [cmTryCompileExec377609030] 错误 1
+gmake: *** [cmTryCompileExec377609030/fast] 错误 2
+
+File /home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3609452441/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3609452441.dir/build.make CMakeFiles/cmTryCompileExec3609452441.dir/build
+gmake[1]: 进入目录“/home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp”
+/usr/bin/cmake -E cmake_progress_report /home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3609452441.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec3609452441.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3609452441
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3609452441.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec3609452441.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3609452441 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: 错误：ld 返回 1
+gmake[1]: 离开目录“/home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/CMakeFiles/CMakeTmp”
+gmake[1]: *** [cmTryCompileExec3609452441] 错误 1
+gmake: *** [cmTryCompileExec3609452441/fast] 错误 2
+
+

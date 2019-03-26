@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ys/project/db_proxy_server_src9-12/muduo-2.0.0-beta/muduo/base/tests/Exception_test.cc
+muduo/base/Exception.h
+-
+stdio.h
+-
+
+muduo/base/Exception.h
+muduo/base/Types.h
+-
+exception
+-
+
+muduo/base/Types.h
+stdint.h
+-
+string
+-
+ext/vstring.h
+-
+ext/vstring_fwd.h
+-
+assert.h
+-
+muduo/base/noncopyable.h
+-
+
+muduo/base/noncopyable.h
+

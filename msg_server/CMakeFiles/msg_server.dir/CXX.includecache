@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ys/project/msg_server_src01/SerClientManager.cpp
+iostream
+-
+muduo/net/InetAddress.h
+-
+SerClientManager.h
+/home/ys/project/msg_server_src01/SerClientManager.h
+
+/home/ys/project/msg_server_src01/SerClientManager.h
+list
+-
+string
+-
+functional
+-
+muduo/net/TcpClient.h
+-
+muduo/net/EventLoop.h
+-
+muduo/net/Buffer.h
+-
+muduo/base/Timestamp.h
+-
+muduo/net/Callbacks.h
+-
+
+/home/ys/project/msg_server_src01/main.cpp
+SerClientManager.h
+/home/ys/project/msg_server_src01/SerClientManager.h
+

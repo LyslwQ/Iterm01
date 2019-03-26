@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/msg_server.dir/main.cpp.o CMakeFiles/msg_server.dir/SerClientManager.cpp.o  -o msg_server  -L. -rdynamic -Wl,-Bstatic -lmuduo_net -lmuduo_base -Wl,-Bdynamic -lpthread -Wl,-rpath,. 
